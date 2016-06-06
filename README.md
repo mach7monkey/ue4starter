@@ -1,6 +1,7 @@
 # UE4 Starter Scripts
 Script to assist in the building of a virtual server and UE4 multiplayer project.
 
+*** This is not ready yet. I hope to have it ready for testing by the end of the week. *** 6/5/2016
 Instructions: https://github.com/mach7monkey/ue4starter/wiki
 
 
